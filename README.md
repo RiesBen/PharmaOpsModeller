@@ -15,5 +15,5 @@ Simulation of toy Plant with monitors
 ## Gant Chart for timing 
 ![gantChart.png](example/gantChart.png)
 
-## Comparing different company layouts
+## Comparing different factory layouts
 ![ChangePlant.png](example/ChangePlant.png)
